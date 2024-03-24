@@ -73,9 +73,6 @@ Adicionalmente, é importante considerar que, nos tempos atuais, há disponibili
 ## Referências
 
 - [Classificação de frases por setor](https://handtalk.notion.site/Classifica-o-de-frases-por-setor-18c80adbbf874c519c9efe19678ac4c1)
-</br>
 - [Must Known Techniques for text preprocessing in NLP](https://www.analyticsvidhya.com/blog/2021/06/must-known-techniques-for-text-preprocessing-in-nlp/)
-</br>
 - [Quick Introduction to Bag-of-Words (BoW) and TF-IDF for Creating Features from Text](https://www.analyticsvidhya.com/blog/2020/02/quick-introduction-bag-of-words-bow-tf-idf/)
-</br>
 - [Multilabel Classification: An Introduction with Python’s Scikit-Learn](https://www.kdnuggets.com/2023/08/multilabel-classification-introduction-python-scikitlearn.html)
